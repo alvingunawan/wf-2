@@ -99,20 +99,20 @@ body{
 	border-bottom: 5px solid orange;
 }
 
-.content{
+.main{
 	padding: 20px;
 }
 
-.content .judulartikel{
+.main .judulartikel{
 	font-size: 28px;
 	font-weight: bold;
 }
 
-.content .subjudulartikel{
+.main .subjudulartikel{
 	font-size: 13px;
 }
 
-.content .subjudulartikel a{
+.main .subjudulartikel a{
 	text-decoration: none;
 	color: #df6019;
 }
