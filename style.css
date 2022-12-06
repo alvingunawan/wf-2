@@ -58,7 +58,7 @@ body{
 }
 
 .container{
-	width: 800px;
+	width: 960px;
 	margin: auto;
 	background-color: khaki;
 }
@@ -91,7 +91,7 @@ body{
 }
 
 .hero{
-	height: 250px;
+	height: 320px;
 	background-image: url(img/gurun.jpg);
 	background-size: cover;
 	background-position: center;
