@@ -101,6 +101,7 @@ body{
 
 .main{
 	padding: 20px;
+	width: 600px;
 }
 
 .main .judulartikel{
@@ -117,14 +118,18 @@ body{
 	color: #df6019;
 }
 
-.content .subjudulartikel a:hover{
+.main .subjudulartikel a:hover{
 	background-color: lightskyblue;
 	color: white;
 }
 
-.content p{
+.main p{
 	margin-bottom: 20px;
 	font-size: 13px;
+}
+
+.sidebar {
+	width: 300px;
 }
 
 .footer{
